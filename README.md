@@ -3,7 +3,7 @@ This is the Repository for CUAI 6th NLP Papers Implementation Study.
 
 ## Members
 🖤Gyeongbin Bak(박경빈) - Majoring Computer science and engineering <br>
-🖤Yumin Kim (김유민) Majoring Business and economic <br>
+🖤Yumin Kim (김유민) Majoring Business and economic(Global Finance) <br>
 
 ## Progress
 |DATE|SUBJECT|CONTENT|REFERENCE|
