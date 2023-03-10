@@ -1,5 +1,12 @@
 # 2023_Study_NLPImplement
+This is the Repository for CUAI 6th NLP Papers Implementation Study.
 
 ## Members
-🖤Bak Gyeongbin(박경빈)/Computer science and engineering 
-🖤Kim Yumin (김유민) /Business and economic
+🖤Gyeongbin Bak(박경빈) - Majoring Computer science and engineering <br>
+🖤Yumin Kim (김유민) Majoring Business and economic <br>
+
+## Progress
+|DATE|SUBJECT|CONTENT|REFERENCE|
+|------|---|---|-----|
+|03.18.22|Decide Papers and codes to Implement||
+
