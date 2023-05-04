@@ -14,4 +14,4 @@ This is the Repository for CUAI 6th NLP Papers Implementation Study.
 |03.31.23|Code Analysis 2|Session by @Yu-billie| |
 |04.07.23|Code Analysis 3|Session by @Gyeongbin| |
 |04.28.23|Documentation| | |
-|05.05.23|Read Paper|Language Models are Unsupervised Multitask Learners|https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf|
+|05.05.23|Read Paper|Language Models are Unsupervised Multitask Learners|https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf (참고: https://arxiv.org/pdf/2005.14165.pdf)|
